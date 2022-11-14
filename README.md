@@ -5,7 +5,7 @@ This is a new repo which we'll be using for collaborations, sharing interesting 
 
 Here is a list of some intresting things i have found
 
-  https://github.com/nicolai256/Few-Shot-Patch-Based-Training
+  https://github.com/nicolai256/Few-Shot-Patch-Based-Training  /n
     Like Ebsynth but seems smoother
   https://github.com/coqui-ai/TTS
     Voice cloning repo
