@@ -17,8 +17,43 @@ Here is a list of some intresting things i have found
     Good WebUi for stable diffusion
     
     
-    https://github.com/AaronFeng753/Waifu2x-Extension-GUI
+   https://github.com/AaronFeng753/Waifu2x-Extension-GUI
       Image resizer and video interpolator
+      
+   https://github.com/PaddlePaddle/PaddleGAN
+      An advanced gan suite with lots of features 
+    
+    
+   https://github.com/uncbiag/SimpleClick
+      An Image segmentation tool
+      
+   https://github.com/omerbt/Text2LIVE
+      Text-Driven Layered Image and Video Editing 
+   
+   
+   https://github.com/deforum-art/deforum-for-automatic1111-webui
+      video stable diffusion extention
+      
+      
+   https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model
+        Easily transfer movement between videos
+    
+    
+   https://github.com/ashawkey/stable-dreamfusion
+    Generate 3d models with stable diffusion 
+    
+    
+   https://github.com/baowenbo/DAIN
+      Video interpolation script
+      
+   https://github.com/Rudrabha/Wav2Lip
+    make deepfakes from an audio file
+    
+   https://github.com/openai/gpt-3
+      one of the most advanced lang models
+      
+   https://github.com/PeterL1n/RobustVideoMatting
+     Mask out videos without human imput
     
 
 
